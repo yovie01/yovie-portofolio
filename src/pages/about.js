@@ -86,7 +86,7 @@ const about = () => {
                 <span className="inline-block text-7xl font-bold">
                   <AnimatedNumber value={50} />+
                 </span>
-                <h2 className="text-xl font-medium capitalize text-dark/75 dark:text-light7/5">
+                <h2 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75">
                   satisfied clients
                 </h2>
               </div>
@@ -95,7 +95,7 @@ const about = () => {
                 <span className="inline-block text-7xl font-bold">
                   <AnimatedNumber value={40} />+
                 </span>
-                <h2 className="text-xl font-medium capitalize text-dark/75 dark:text-light7/5">
+                <h2 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75">
                   project clients
                 </h2>
               </div>
@@ -104,7 +104,7 @@ const about = () => {
                 <span className="inline-block text-7xl font-bold">
                   <AnimatedNumber value={7} />+
                 </span>
-                <h2 className="text-xl font-medium capitalize text-dark/75 dark:text-light7/5">
+                <h2 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75">
                   years of experience
                 </h2>
               </div>
