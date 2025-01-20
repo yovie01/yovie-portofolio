@@ -10,7 +10,7 @@ const Logo = () => {
       <MotionLink
         href="/"
         className="w-16 h-16 bg-dark text-light flex items-center justify-center rounded-full 
-        border border-solid border-transparent text-2xl font-bold dark:border-light"
+        border border-solid border-transparent text-4xl font-bold dark:border-light"
         whileHover={{
           backgroundColor: [
             "#121212",
@@ -23,7 +23,7 @@ const Logo = () => {
           transition: { duration: 1.5, repeat: Infinity },
         }}
       >
-        CB
+        Y
       </MotionLink>
     </div>
   );
